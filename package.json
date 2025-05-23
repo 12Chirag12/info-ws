@@ -1,0 +1,8 @@
+{
+  "name": "info-ws",
+  "version": "1.0.0",
+  "description": "Information page with DaisyUI",
+  "main": "index.html",
+  "scripts": {},
+  "dependencies": {}
+}
